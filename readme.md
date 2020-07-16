@@ -5,6 +5,8 @@ Be sure to take a look at my favorite projects: [Pack-Buddy](https://github.com/
 You can also check out my portfolio, [here](https://www.linkedin.com/in/jamesnitz/), and find me on LinkedIn, [here](https://www.linkedin.com/in/jamesnitz/).
 
 
-![Dancing man](./images/tayne.gif)
+![Dancing man](.tayne.gif)
 
-![Alt text]("./images/tayne.gif") / ![test]("./images/tayne.gif")
+![Alt text]("./tayne.gif") 
+
+ ![test]("tayne.gif")
