@@ -6,3 +6,5 @@ You can also check out my portfolio, [here](https://www.linkedin.com/in/jamesnit
 
 
 ![Dancing man](./images/tayne.gif)
+
+![Alt text]("./images/tayne.gif") / ![test]("./images/tayne.gif")
