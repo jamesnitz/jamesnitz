@@ -4,4 +4,5 @@ Be sure to take a look at my favorite projects: [Pack-Buddy](https://github.com/
 
 You can also check out my portfolio, [here](https://www.linkedin.com/in/jamesnitz/), and find me on LinkedIn, [here](https://www.linkedin.com/in/jamesnitz/).
 
-![](./images/tayne.gif)
+<img src="https://github.com/jamesnitz/jamesnitz/images/tayne.gif" height="300" align="center" />
+
